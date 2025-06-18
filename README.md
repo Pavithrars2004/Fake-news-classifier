@@ -1,4 +1,4 @@
-# 📄 README: Fake News Classifier
+# Fake News Classifier
 
 ## 📰 Project Overview
 
